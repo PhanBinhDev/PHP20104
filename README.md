@@ -1,2 +1,5 @@
-# ASM - PHP20104
+# ASM - PHP20104 
 This website is built using PHP with the MVC (Model-View-Controller) architecture
+
+# Author
+**binhdev**
